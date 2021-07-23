@@ -1,0 +1,24 @@
+.info__wrapper .container  {
+   padding-top: 0;
+   padding-bottom: 0;
+}
+.info {
+   
+}
+@media screen and (min-width: 1024px)  {
+    .info {
+       display: flex;
+       align-items: center;
+    }
+    .info .img {
+        margin-top: -7rem;
+        height: 50rem;
+        object-fit: cover;
+    }
+    .info__block {
+        padding: 3rem;
+        background-color: var(--second-brand-color);
+    }
+}
+
+

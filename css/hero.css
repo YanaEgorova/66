@@ -1,0 +1,13 @@
+.hero__wrapper {
+    background-color: var(--second-brand-color);
+}
+
+.hero {
+    padding: 10rem 0 5rem;
+}
+.hero .title {
+    text-shadow: .5rem .5rem 0rem var(--third-brand-color);
+}
+@media screen and (min-width: 1024px)  {
+  
+}
